@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Estimating-Bell-Diagonal-States-with-Separable-Measurements
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Noah
+    family-names: Kaufmann
+    email: kaufmann.noah@hotmail.com
+    affiliation: The Niels Bohr Institute
+    orcid: 'https://orcid.org/0009-0006-5101-9926'
