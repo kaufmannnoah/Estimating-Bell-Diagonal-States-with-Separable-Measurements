@@ -57,5 +57,5 @@ for indj, j in enumerate([0, 2, 1]):
     axs[1].set_xlabel(r'number of measurements $N$', fontsize=f_s)
     axs[0].set_ylabel(r'average risk (HS)', fontsize=f_s)
 
-plt.savefig("figure_4", dpi= 600)
+plt.savefig("figure_4-5", dpi= 600)
 plt.show()
